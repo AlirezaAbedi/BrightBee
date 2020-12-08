@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BrightBee/static/css/main.a2aa38b4.chunk.css",
+    "main.js": "/BrightBee/static/js/main.2537f16e.chunk.js",
+    "main.js.map": "/BrightBee/static/js/main.2537f16e.chunk.js.map",
+    "runtime-main.js": "/BrightBee/static/js/runtime-main.e373e0af.js",
+    "runtime-main.js.map": "/BrightBee/static/js/runtime-main.e373e0af.js.map",
+    "static/css/2.f8e0039c.chunk.css": "/BrightBee/static/css/2.f8e0039c.chunk.css",
+    "static/js/2.9310cdcd.chunk.js": "/BrightBee/static/js/2.9310cdcd.chunk.js",
+    "static/js/2.9310cdcd.chunk.js.map": "/BrightBee/static/js/2.9310cdcd.chunk.js.map",
+    "index.html": "/BrightBee/index.html",
+    "precache-manifest.0617ee1c4d4a97032f723beef95d163a.js": "/BrightBee/precache-manifest.0617ee1c4d4a97032f723beef95d163a.js",
+    "service-worker.js": "/BrightBee/service-worker.js",
+    "static/css/2.f8e0039c.chunk.css.map": "/BrightBee/static/css/2.f8e0039c.chunk.css.map",
+    "static/css/main.a2aa38b4.chunk.css.map": "/BrightBee/static/css/main.a2aa38b4.chunk.css.map",
+    "static/js/2.9310cdcd.chunk.js.LICENSE.txt": "/BrightBee/static/js/2.9310cdcd.chunk.js.LICENSE.txt",
+    "static/media/dx.light.css": "/BrightBee/static/media/dxicons.fd4164a9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e373e0af.js",
+    "static/css/2.f8e0039c.chunk.css",
+    "static/js/2.9310cdcd.chunk.js",
+    "static/css/main.a2aa38b4.chunk.css",
+    "static/js/main.2537f16e.chunk.js"
+  ]
+}
